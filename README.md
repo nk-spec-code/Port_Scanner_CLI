@@ -1,8 +1,7 @@
 
 # Port Scanner
 
-A simple "multithreaded TCP port scanner" built in Python.
-It allows scanning a host for open ports using CLI.
+A multithreaded TCP port scanner script built in Python, which allows scanning a host for open ports using CLI.
 
 ## Features
 - Scans single ports, ranges, or lists e.g "22, 20-100," or "22,80,443,8000-8100"
