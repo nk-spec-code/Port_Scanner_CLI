@@ -10,7 +10,7 @@ This tool scans ports concurrently using multithreading, supports flexible port 
 
 ## Features
 - Scan single ports, ranges, or lists (e.g. '22', '20-100', '22,80,443,8000-8100')
-- Multithreaded scanning for improved speed
+- Multi threaded scanning for improved speed
 - Timeout handling for slow or unstable networks
 - Summary of open ports
 - Cross-platform support (Windows, macOS, Linux)
