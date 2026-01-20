@@ -25,4 +25,4 @@ bash
 python scanner.py --host <target> --ports <ports>
 
 ## Disclaimer
-This tool is intended for educational purposes only. Do not scan systems you do not own or have explicit permission to test.
+**This tool is intended for educational purposes only. Do not scan systems you do not own or have explicit permission to test.
