@@ -60,5 +60,4 @@ def main():
     else:
         print("\nNo open ports found.")
 
-if __name__ == "__main__":
-    main()
+
